@@ -1,19 +1,10 @@
-# 🎈 Blank app template
+## 프로젝트 소개
+- 본 프로젝트는 2024.08.19 ~ 2024.08.20 진행한 해커톤 프로젝트 입니다.
 
-A simple Streamlit app template for you to modify!
+## 팀원 소개
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+- GitHub: [@kgs9843](https://github.com/kgs9843)
+- GitHub: [@ndurumi922](https://avatars.githubusercontent.com/u/155722710?v=4)
 
-### How to run it on your own machine
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## 해커톤 회고
